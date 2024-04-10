@@ -1,0 +1,49 @@
+html {
+    background-color: white;
+}
+
+body {
+    margin-right: 15%;
+}
+
+div {
+    background-color: bisque;
+    box-sizing: border-box;
+    border: 5px bisque solid;
+    width: 800px;
+    margin: 20px;
+    font-size: 20px;
+}
+
+section {
+    background-color: gray; 
+    box-sizing: border-box;
+    border: 10px gray solid;
+    width: 250px;
+}
+
+img {
+    height: 200px;
+    float: right;
+    padding-top: 1%;
+}
+
+.can {
+    margin: 40px;
+    display: inline-block;
+}
+
+.dry {
+    margin: 5px;
+    display: inline-block;
+}
+
+.veg {
+    margin: 40px;
+    display: inline-block;
+}
+
+.snacks {
+    margin: 5px;
+    display: inline-block;
+}
